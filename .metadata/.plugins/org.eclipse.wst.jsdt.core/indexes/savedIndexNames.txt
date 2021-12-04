@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\lollo\Documents\Eclipse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3209878434.index
+2599484766.index
+1681388204.index
+3667477937.index
+2357696843.index
+1976368994.index

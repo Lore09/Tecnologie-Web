@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;environment.properties&apos; to &apos;build.xml&apos;&#x0D;&#x0A;- Original project: &apos;03a_TecWeb_solved&apos;&#x0D;&#x0A;- Destination element: &apos;build.xml&apos;&#x0D;&#x0A;- Original element: &apos;environment.properties&apos;" description="Copy file" element1="ant/environment.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1638549879190" target="/03b_TecWeb/ant/build.xml" units="0" version="1.0"/>
+</session>

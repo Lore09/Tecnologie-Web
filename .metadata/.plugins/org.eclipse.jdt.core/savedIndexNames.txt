@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\lollo\Documents\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3395248957.index
+3116314418.index
+1098731182.index
+3051811744.index
+1144845834.index
+650176181.index
+574119116.index
+1460981625.index
+2583508456.index
+3412620756.index
+716830334.index
+1865797976.index
+3217629931.index
+4173155054.index
+4200811977.index
+2049373668.index
+4091874622.index
+3676440900.index
+874126578.index
